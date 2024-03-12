@@ -11,7 +11,7 @@ toc::[]
 
 == Executive Summary
 
-Briefly introduce the customer and the overarching success achieved through your solution. This summary sets the stage for the story and should capture the audience's interest.
+Briefly introduce the customer and the  success achieved through your solution.
 
 == The Customer
 
