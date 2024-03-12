@@ -30,6 +30,7 @@ A concise statement of the problem(s) the customer was facing, emphasizing the i
 == Our Solution
 
 Highlight the solution provided, focusing on:
+
 * *Product/Service*: [Your Solution]
 * *Implementation*: Key steps or innovative approaches taken
 * *Collaboration*: Briefly note how the solution was tailored to the customer’s needs.
